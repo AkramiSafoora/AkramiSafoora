@@ -7,7 +7,7 @@
 ---
 
 ##  Featured Projects
-- **[StudySmart AI](https://github.com/AkramiSafoora/studysmart-ai)** – Exam prep assistant using Gemini, Streamlit & LangChain  
+- **StudySmart AI** – Exam prep assistant using Gemini, Streamlit & LangChain  
 - **Pneumonia Detection** – Deep learning models (VGG16, VGG19, Autoencoders) for chest X-ray classification  
 - **Worker Safety Detection** – PPE compliance detection using YOLOv8 for construction sites  
 - **Retail Analytics Pipeline** – ETL workflows (PySpark, Alteryx) & dashboards (Tableau, Power BI)  
