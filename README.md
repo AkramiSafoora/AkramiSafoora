@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Safoora Akrami  
 
-🎓 MSc in Artificial Intelligence | 📚 Applied AI Student @ George Brown College  
-💡 Passionate about Machine Learning, Deep Learning & Generative AI  
-📊 Experienced in Computer Vision, NLP, Big Data & Data Visualization  
+ MSc in Artificial Intelligence |  Applied AI Student @ George Brown College  
+ Passionate about Machine Learning, Deep Learning & Generative AI  
+ Experienced in Computer Vision, NLP, Big Data & Data Visualization  
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 - **[StudySmart AI](https://github.com/AkramiSafoora/studysmart-ai)** – Exam prep assistant using Gemini, Streamlit & LangChain  
 - **Pneumonia Detection** – Deep learning models (VGG16, VGG19, Autoencoders) for chest X-ray classification  
 - **Worker Safety Detection** – PPE compliance detection using YOLOv8 for construction sites  
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠 Skills
+##  Skills
 - **Languages & Tools**: Python, SQL, MATLAB, Jupyter, Git  
 - **ML/DL**: TensorFlow, PyTorch, scikit-learn, Hugging Face Transformers  
 - **Big Data**: Hadoop, Hive, Pig, PySpark  
@@ -24,6 +24,6 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 - [LinkedIn] [www.linkedin.com/in/safoora-akrami-ai]
-- 📧 Email: safoora.akrami@gmail.com 
+-  Email: safoora.akrami@gmail.com 
