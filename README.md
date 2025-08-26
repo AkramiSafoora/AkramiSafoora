@@ -1,4 +1,7 @@
-# Hi there 👋, I'm Safoora Akrami  
+# Hi there 👋, I'm Safoora Akrami
+![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Hello+Visitor+Number&color=blue&style=flat-square)
+
+
 
  MSc in Artificial Intelligence |  Applied AI Student @ George Brown College  
  Passionate about Machine Learning, Deep Learning & Generative AI  
