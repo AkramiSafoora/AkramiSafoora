@@ -1,6 +1,4 @@
 # Hi there 👋, I'm Safoora Akrami
-![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Hello+Visitor+Number&color=blue&style=flat-square)
-
 
 
  MSc in Artificial Intelligence |  Applied AI Student @ George Brown College  
@@ -29,4 +27,6 @@
 
 ##  Connect with Me
 - [LinkedIn] [www.linkedin.com/in/safoora-akrami-ai]
--  Email: safoora.akrami@gmail.com 
+-  Email: safoora.akrami@gmail.com
+-  ![Profile views](https://komarev.com/ghpvc/?username=AkramiSafoora&label=Profile%20Views&color=0e75b6&style=flat)
+
