@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Safoora Akrami
+# Hi there 👋, I'm Safoora.
 
 
  MSc in Artificial Intelligence |  Applied AI Student @ George Brown College  
@@ -24,8 +24,6 @@
 - **Other**: Alteryx, MongoDB, MySQL  
 
 ---
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkramiSafoora&theme=dracula)
 
 
 ##  Connect with Me
