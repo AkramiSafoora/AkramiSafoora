@@ -25,8 +25,11 @@
 
 ---
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AkramiSafoora&theme=dracula)
+
+
 ##  Connect with Me
-- [LinkedIn] [www.linkedin.com/in/safoora-akrami-ai]
--  Email: safoora.akrami@gmail.com
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/safoora-akrami-ai)
+-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:safoora.akrami@gmail.com)
 -  ![Profile views](https://komarev.com/ghpvc/?username=AkramiSafoora&label=Profile%20Views&color=0e75b6&style=flat)
 
