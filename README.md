@@ -25,6 +25,12 @@
 
 ---
 
+##  GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkramiSafoora&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkramiSafoora&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=AkramiSafoora&theme=radical)
+
+---
 
 ##  Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/safoora-akrami-ai)
