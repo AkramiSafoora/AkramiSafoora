@@ -23,12 +23,6 @@
 - **Visualization**: Tableau, Power BI, Tableau Prep, Matplotlib  
 - **Other**: Alteryx, MongoDB, MySQL  
 
----
-
-##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AkramiSafoora&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkramiSafoora&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=AkramiSafoora&theme=radical)
 
 ---
 
